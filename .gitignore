@@ -9,6 +9,9 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 
+# 冗余/草稿图标（保留正式 icon.png）
+icon_副本.png
+
 # 本地打包产物（可重新生成）
 dist/
 
