@@ -26,7 +26,7 @@
 
 **方式一：从本仓库安装**
 ```bash
-git clone https://github.com/<你的用户名>/mac-clean.git
+git clone https://github.com/xuwu91314/mac-clean.git
 mkdir -p ~/.workbuddy/skills
 cp -R mac-clean ~/.workbuddy/skills/mac-clean
 ```
